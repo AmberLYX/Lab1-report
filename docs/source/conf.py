@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lab1: Dependency Analysis and Dependency Graphs'
+project = 'Lab2: Handout: Using Blueprints to Architect A Photo Album Web Applicatio'
 copyright = '2021, Graziella'
 author = '刘奕秀  李敏  吴佩媛'
 
